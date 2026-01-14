@@ -1,4 +1,4 @@
-# Loan Management System – Take-Home Test
+# Mini Loan Management System
 
 This repository contains the implementation of a **Loan Management System**, developed woth .NET.  
 The solution includes a **.NET Web API backend** and a **simplified Angular frontend**, with a focus on clean architecture, testability, and maintainability.
